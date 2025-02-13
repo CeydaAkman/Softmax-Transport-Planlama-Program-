@@ -34,5 +34,6 @@ Programlama Dili: program Python programlama dili ile yazılmıştır.
 
 Matematiksel Hesaplamalar: NumPy kütüphanesi ile Softmax hesaplamaları ve maliyet-fayda analizi gerçekleştirilmiştir.
 # Ekran Çıktısı:
-![image](https://github.com/user-attachments/assets/946bf2f2-e94d-4b93-b748-fa3672f5ddd7)
+![image](https://github.com/user-attachments/assets/2a6b006f-3270-4a1e-8889-7f7012d622cf)
+
 
