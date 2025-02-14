@@ -30,7 +30,7 @@ Maliyet-Fayda Oranı: Toplam skoru maliyet değerine bölerek fayda-maliyet oran
 
 En Uygun Güzergah Seçimi: Yüksek skordan düşük skora doğru mahalleler sıralanarak en uygun güzergah belirlenir.
 # Kullanılan Teknolojiler:
-Programlama Dili: program Python programlama dili ile yazılmıştır.
+Programlama Dili: Program Python programlama dili ile yazılmıştır.
 
 Matematiksel Hesaplamalar: NumPy kütüphanesi ile Softmax hesaplamaları ve maliyet-fayda analizi gerçekleştirilmiştir.
 # Ekran Çıktısı:
